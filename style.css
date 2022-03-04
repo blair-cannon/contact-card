@@ -1,0 +1,24 @@
+body {
+    background-color: darkslategray;
+  }
+  
+ .card {
+    background-image: url("img/contactcardbg.jpg");
+    height: 750px;
+    width: 350px; 
+    border-radius: 1em;
+    padding: 2em;
+    text-align: center;
+}
+
+.rounded-circle {
+    height:200px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img, svg {
+    vertical-align: middle;
+    margin: 6px;
+}
